@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">FragmentExample</string>
+    <string-array name="base_list_array">
+        <item>Margherita</item>
+        <item>Marinara</item>
+        <item>4 Formaggi</item>
+    </string-array>
 </resources>
